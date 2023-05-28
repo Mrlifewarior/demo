@@ -1,0 +1,7 @@
+#1 Create Repository on GitHub
+#2 Open terminal on VsCode
+#3 git init
+#4 git add . | git add filename.extention
+#5 git commit -m "message"
+#6 git remote add origin https://github.com/username/repository.git
+#7 git push -u origin master
