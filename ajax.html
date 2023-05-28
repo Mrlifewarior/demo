@@ -126,7 +126,7 @@
                     console.log("XHR Request Success")
                 }
             };
-            xhttp.open("POST", "process.php", true);
+            xhttp.open("POST", "ajax.php", true);
             xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
             xhttp.send("name=" + name + "&email=" + email + "&age=" + age + "&mobile=" + mobile + "&address=" + address);
         }

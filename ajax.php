@@ -1,4 +1,4 @@
-<!-- Server Side Code to get Data -->
+<!-- Server Side Code to get -->
 <?php
 
 $data['name'] = $_POST['name'];

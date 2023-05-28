@@ -1,4 +1,4 @@
-#1 Create Repository on GitHub
+#1 Create Repository on GitHubb
 #2 Open terminal on VsCode
 #3 git init
 #4 git add . | git add filename.extention
